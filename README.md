@@ -7,4 +7,4 @@
 
 
 *******
-This is a COVID-19 version of the DEAL WITH IT meme that I made while in quarantine. The credit for the idea goes to Kirk Kaiser for [his blog](/https://www.makeartwithpython.com/blog/deal-with-it-generator-face-recognition/) on makeartwithpython.com
+This is a COVID-19 version of the DEAL WITH IT meme that I made while bored in quarantine. The credit for the idea goes to Kirk Kaiser for [his blog](/https://www.makeartwithpython.com/blog/deal-with-it-generator-face-recognition/) on makeartwithpython.com

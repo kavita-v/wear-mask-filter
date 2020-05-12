@@ -1,5 +1,7 @@
 # Wear A Mask Filter!
 
+![](wear-a-mask.gif)
+
 ## How to Set Up
 1. Download the the shape-predictor-68-face-landmarks dlib-model from [here](/https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2) and unzip it in the same directory as the python file
 2. Make sure you have installed OpenCV and dlib

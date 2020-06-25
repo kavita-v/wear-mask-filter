@@ -1,5 +1,7 @@
 # Wear A Mask Filter!
 
+The mask floats down from the top of the screen to your face. 
+
 ![](wear_a_mask.gif)
 
 ## How to Set Up
